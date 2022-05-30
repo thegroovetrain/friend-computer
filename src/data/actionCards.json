@@ -1,0 +1,9 @@
+[
+    {
+        "name": "A Gun in the Right Place",
+        "actionOrder": 5,
+        "reaction": true,
+        "description": "You spot a ranged weapon useful to the action. Describe it; GM has veto over your description. The weapon adds +1 dice so long as its useful and intact. If the GM is particularly pleased by your description, it adds +2 dice this round and +1 dice thereafter.",
+        "flavorText": "They shoulnd't just leave these things lying around"
+    }
+]

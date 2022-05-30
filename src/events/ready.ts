@@ -1,13 +1,9 @@
-import { MyClient as Client } from '../client'
-import * as Models from '../models';
+import { MyClient as Client } from '../client';
 
 export default {
     name: 'ready',
     once: true,
     execute(client:Client) {
-        Models.CharacterEquipment.sync();
-        Models.Character.sync();
-        Models.Equipment.sync();
         console.log(`Logged in as ${client?.user?.tag}!`);
     },
 }

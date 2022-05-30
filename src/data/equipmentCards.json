@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Grenade",
+        "actionOrder": 3,
+        "actionOrderStat": "violence",
+        "weight": "small",
+        "level": 2,
+        "description": "Blows up in a pretty wide radius five seconds after you press the arming button. You could probably modify it to explode on a timer, or a trigger, but you should be very careful with that sort of thing."
+    }
+]
